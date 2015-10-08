@@ -1,7 +1,6 @@
 package com.guangpu.listviewwithcheckbox.ui;
 
 import android.app.Activity;
-import android.content.Intent;
 import android.os.Bundle;
 import android.view.View;
 import android.widget.AdapterView;
@@ -17,6 +16,9 @@ import java.util.ArrayList;
 import java.util.Iterator;
 import java.util.List;
 
+/**
+ * This is a test project.
+ */
 public class MainActivity extends Activity implements View.OnClickListener{
 
     private ListView listView;
